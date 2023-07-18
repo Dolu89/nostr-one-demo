@@ -5,8 +5,8 @@ dependencies:
     specifier: ^6.0.3
     version: 6.0.3
   nostr-one:
-    specifier: ^0.0.2
-    version: 0.0.2
+    specifier: ^0.0.3
+    version: 0.0.3
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -952,8 +952,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /nostr-one@0.0.2:
-    resolution: {integrity: sha512-PflEEZjLQdyHPtvO24JpGlKiAys3CvKMgGWNayYKrr/zTHwGulrilPYfEnl467nHrJ2+H4ZKcTT5b7sxWcIHuA==}
+  /nostr-one@0.0.3:
+    resolution: {integrity: sha512-/+mlBAko3r5Xw9LtexA1tSdUhwLS1T8qipG53UZu2xim8pY2hYnZnsh7s5xredybkNu5oxzW2uBlBsEaMRIIPw==}
     dependencies:
       axios: 1.4.0
       nostr-tools: 1.13.0

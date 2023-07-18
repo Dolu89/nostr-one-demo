@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
-    "nostr-one": "^0.0.2",
+    "nostr-one": "^0.0.3",
     "vue": "^3.3.4"
   },
   "devDependencies": {
